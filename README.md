@@ -5,7 +5,7 @@ Scrapy spider examples and scripts referenced from my blog http://www.dataisbeau
 These are all written and tested using scrapy 0.24.4
 
 ##metademo
-Spider to collect the meta tags from a site. Note that it only collects deccription and keywords tags.
+Spider to collect the meta tags from a site. Note that it only collects description and keywords tags.
 
 Call with:
 
@@ -19,7 +19,7 @@ Call with:
 `scrapy crawl example`
 
 ##mysqldemo
-Spider showing how to take start_urls from database and store resutls in mysql
+Spider showing how to take start_urls from a database and store scrape results in mysql using a scrapy pipeline
 
 ##parameterdemo
 Spider that takes multiple arguments, in this case the year and month of the archive page to scrape.
