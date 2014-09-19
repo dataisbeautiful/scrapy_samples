@@ -2,6 +2,7 @@ Scrapy Samples
 ==============
 
 Scrapy spider examples and scripts referenced from my blog http://www.dataisbeautiful.io
+These are all written and tested using scrapy 0.24.4
 
 ##metademo
 Spider to collect the meta tags from a site. Note that it only collects deccription and keywords tags.
