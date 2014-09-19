@@ -10,7 +10,7 @@ Spider to collect the meta tags from a site
 Spider showing how to take start_urls from database and store resutls in mysql
 
 ##parameterdemo
-Spider that takes multiple arguments
+Spider that takes multiple arguments, in this case the year and month of the archive page to scrape.
 
 Call with:
 
