@@ -8,3 +8,10 @@ Spider to collect the meta tags from a site
 
 ##mysqldemo
 Spider showing how to take start_urls from database and store resutls in mysql
+
+##parameterdemo
+Spider that takes multiple arguments
+
+Call with:
+
+`scrapy crawl example -a year=2014 -a month=09`
