@@ -11,6 +11,13 @@ Call with:
 
 `scrapy crawl example`
 
+##ogmeta
+Spider to collect the Facebook Open Graph Meta Tags from a site based on PyOpenGraph library that can be found here https://pypi.python.org/pypi/PyOpenGraph
+
+Call with:
+
+`scrapy crawl example`
+
 ##mysqldemo
 Spider showing how to take start_urls from database and store resutls in mysql
 
