@@ -27,3 +27,7 @@ Spider that takes multiple arguments, in this case the year and month of the arc
 Call with:
 
 `scrapy crawl example -a year=2014 -a month=09`
+
+##statstodb
+
+Save Scrapy spider stats to a mySQL database with this handy extension.
